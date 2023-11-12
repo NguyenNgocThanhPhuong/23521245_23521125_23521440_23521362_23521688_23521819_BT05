@@ -20,9 +20,9 @@ int main()
 {
 	DUONGTHANG m, n;
 
-	cout << "Nhap duong thang thu nhat: " << endl;
+	cout << "Nhap duong thang thu nhat: \n";
 	Nhap(m);
-	cout << "\nNhap duong thang thu hai: " << endl;
+	cout << "\nNhap duong thang thu hai: \n";
 	Nhap(n);
 
 	cout << "\n\nDuong thang thu nhat: ";

@@ -27,7 +27,7 @@ int main()
 	cout << "Nhap tam giac: ";
 	Nhap(M);
 	
-	cout << "\n\n\nKet thuc!!!";
+	cout << "\n\n\nKet thuc !!!";
 	return 0;
 }
 

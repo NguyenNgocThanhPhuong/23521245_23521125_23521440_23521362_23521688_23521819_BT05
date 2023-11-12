@@ -37,7 +37,7 @@ int main()
 	cout << "Nhap duong thang:\n";
 	Nhap(d);
 
-	cout << "Duong thang:";
+	cout << "Duong thang: ";
 	Xuat(d);
 
 	if (ktThuoc(d, A))

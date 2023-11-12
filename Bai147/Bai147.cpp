@@ -14,7 +14,7 @@ void Nhap(DUONGTHANG&);
 int main()
 {
 	DUONGTHANG d;
-	cout << "Nhap duong thang: " << endl;
+	cout << "Nhap duong thang: \n";
 	Nhap(d);
 
 	cout << "\n\n\nKet thuc!!!";

@@ -15,7 +15,7 @@ void Xuat(DATHUC);
 int main()
 {
 	DATHUC g;
-	cout << "Nhap da thuc g: " << endl;
+	cout << "Nhap da thuc g: \n";
 	Nhap(g);
 
 	cout << "Da thuc g vua nhap: ";

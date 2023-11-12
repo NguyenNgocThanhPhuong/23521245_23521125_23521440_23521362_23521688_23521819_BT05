@@ -17,7 +17,7 @@ void Xuat(DUONGTHANG);
 int main()
 {
 	DUONGTHANG d;
-	cout << "\nNhap duong thang: ";
+	cout << "\nNhap duong thang:";
 	Nhap(d);
 
 	cout << "\nDuong thang: ";

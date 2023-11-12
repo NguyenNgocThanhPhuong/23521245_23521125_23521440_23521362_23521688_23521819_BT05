@@ -1,7 +1,4 @@
-﻿//Dinh Nghia Ham DIEUCHINHBAC ?
-
-
-#include <iostream>
+﻿#include <iostream>
 #include <iomanip>
 #include <cmath>
 using namespace std;

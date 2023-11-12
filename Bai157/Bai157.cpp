@@ -14,7 +14,7 @@ void Nhap(DATHUC&);
 int main()
 {
 	DATHUC a;
-	cout << "Nhap da thuc:\n";
+	cout << "Nhap da thuc:";
 	Nhap(a);
 	
 	cout << "\n\n\nKet thuc!!!";
@@ -23,7 +23,7 @@ int main()
 
 void Nhap(DATHUC& f)
 {
-	cout << "Nhap so mu: ";
+	cout << "\nNhap so mu: ";
 	cin >> f.n;
 	for (int i=f.n;i>=0; i--)
 	{

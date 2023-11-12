@@ -29,14 +29,14 @@ int main()
 	cout << "Nhap duong thang:\n";
 	Nhap(d1);
 
-	cout << "Duong thang:";
+	cout << "Duong thang: ";
 	Xuat(d1);
 
 	DUONGTHANG d2;
 	cout << "Nhap duong thang:\n";
 	Nhap(d2);
 
-	cout << "Duong thang:";
+	cout << "Duong thang: ";
 	Xuat(d2);
 
 	if (ktSongSong(d1, d2))

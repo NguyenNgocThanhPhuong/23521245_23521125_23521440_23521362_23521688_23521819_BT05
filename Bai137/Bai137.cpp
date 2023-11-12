@@ -47,7 +47,7 @@ void Nhap(DIEM& P)
 
 void Xuat(DIEM P)
 {
-	cout << "(" << P.x << ", " << P.y << ")" << endl;
+	cout << "(" << P.x << ", " << P.y << ")\n";
 }
 
 void Nhap(TAMGIAC& t)

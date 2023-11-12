@@ -12,6 +12,6 @@ typedef struct DuongThang DUONGTHANG;
 
 int main()
 {
-	cout << "\n\n\nKet thuc !!!";
+	cout << "\n\n\nKet thuc !!! ";
 	return 0;
 }

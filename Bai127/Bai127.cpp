@@ -31,14 +31,14 @@ int main()
 	cout << "Nhap duong tron thu nhat:\n";
 	Nhap(c3);
 
-	cout << "Duong tron thu nhat:";
+	cout << "Duong tron thu nhat: ";
 	Xuat(c3);
 
 	DUONGTRON c4;
-	cout << "Nhap duong tron thu hai:\n";
+	cout << "Nhap duong tron thu hai: \n";
 	Nhap(c4);
 
-	cout << "Duong tron thu hai:";
+	cout << "Duong tron thu hai: ";
 	Xuat(c4);
 
 	switch (TuongDoi(c3, c4))

@@ -29,7 +29,7 @@ float DienTich(HINHCAU);
 int main()
 {
 	HINHCAU s;
-	cout << "\Nhap hinh cau: " << endl;
+	cout << "\Nhap hinh cau: \n";
 	Nhap(s);
 
 	cout << "\nHinh cau vua nhap:\n ";

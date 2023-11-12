@@ -63,7 +63,7 @@ int main()
 		break;
 	}
 
-	cout << "\n\n\nKet Thuc !!!";
+	cout << "\n\n\nKet thuc !!!";
 	return 0;
 }
 

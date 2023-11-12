@@ -37,7 +37,7 @@ int main()
 
 	cout << "\n\nDien tich = " << DienTich(c);
 
-	cout << "\n\n\nKet thuc!!!";
+	cout << "\n\n\nKet thuc !!!";
 	return 0;
 }
 

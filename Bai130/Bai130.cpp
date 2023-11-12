@@ -32,7 +32,7 @@ int main()
 	cout << "\nHinh cau vua nhap: ";
 	Xuat(a);
 
-	cout << "\n\n\nKet thuc!!!";
+	cout << "\n\n\nKet thuc !!!";
 	return 0;
 }
 

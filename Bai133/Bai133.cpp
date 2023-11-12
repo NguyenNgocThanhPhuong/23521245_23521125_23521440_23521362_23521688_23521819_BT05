@@ -36,7 +36,7 @@ int main()
 	Xuat(A);
 
 	HINHCAU c;
-	cout << "\n\n\nNhap hinh cau:";
+	cout << "\n\n\nNhap hinh cau: ";
 	Nhap(c);
 
 	cout << "\n\n\Hinh cau vua nhap: ";

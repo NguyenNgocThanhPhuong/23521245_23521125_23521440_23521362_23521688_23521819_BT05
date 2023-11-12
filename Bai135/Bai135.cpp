@@ -19,6 +19,6 @@ typedef struct TamGiac TAMGIAC;
 
 int main()
 {
-	cout << "\n\n\nKet Thuc !!!";
+	cout << "\n\n\nKet thuc !!!";
 	return 0;
 }

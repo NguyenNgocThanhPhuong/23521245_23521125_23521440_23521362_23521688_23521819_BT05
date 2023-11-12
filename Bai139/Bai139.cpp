@@ -44,7 +44,7 @@ int main()
 
 void Nhap(DIEM& P)
 {
-	cout << "Nhap x:";
+	cout << "\nNhap x:";
 	cin >> P.x;
 	cout << "Nhap y:";
 	cin >> P.y;

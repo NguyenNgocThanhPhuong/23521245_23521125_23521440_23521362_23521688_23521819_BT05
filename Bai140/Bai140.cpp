@@ -30,7 +30,7 @@ float DienTich(TAMGIAC);
 int main()
 {
 	TAMGIAC M;
-	cout << "Nhap tam giac: \n";
+	cout << "Nhap tam giac: ";
 	Nhap(M);
 
 	cout << "\nTam giac vua nhap: ";
@@ -44,7 +44,7 @@ int main()
 
 void Nhap(DIEM& P)
 {
-	cout << "Nhap x: ";
+	cout << "\nNhap x: ";
 	cin >> P.x;
 	cout << "Nhap y: ";
 	cin >> P.y;

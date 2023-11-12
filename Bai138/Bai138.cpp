@@ -36,9 +36,9 @@ int main()
 	Xuat(M);
 
 	if (ktTamGiac(M))
-		cout << "\nLa 3 dinh cua tam giac";
+		cout << "\nLa 3 dinh cua tam giac ";
 	else
-		cout << "\nKhong la 3 dinh cua tam giac";
+		cout << "\nKhong la 3 dinh cua tam giac ";
 	cout << "\n\n\nKet thuc";
 	return 0;
 }

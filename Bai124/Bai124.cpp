@@ -46,7 +46,7 @@ int main()
 	else
 		cout << "\n\nDiem khong nam trong duong tron";
 
-	cout << "\n\n\nKet thuc!!!";
+	cout << "\n\n\nKet thuc !!!";
 	return 0;
 }
 
