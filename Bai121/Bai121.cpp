@@ -25,7 +25,7 @@ void Xuat(DUONGTRON);
 int main()
 {
 	DUONGTRON c;
-	cout << "Nhap duong tron: \n";
+	cout << "\nNhap duong tron: \n";
 	Nhap(c);
 
 	cout << "\nDuong tron vua nhap: " << endl;
